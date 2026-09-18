@@ -100,7 +100,7 @@ Prazer, Henrique Afonso! 👋
       <h4>👨🏻‍💻 Desenvolvimento Web</h4>
       <p>Páginas e interfaces interativas desenvolvidas do zero usando HTML5, CSS3 e JavaScript puro.</p>
       <br />
-      <a href="https://github.com/henrique7hap?tab=repositories">📂 Ver Repositórios</a>
+      <a href="https://github.com/henrique7hap-web?tab=repositories">📂 Ver Repositórios</a>
     </td>
   </tr>
 </table>
